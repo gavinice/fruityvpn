@@ -1,0 +1,22 @@
+@import "variable";
+
+.container {
+  max-width: 1220px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn {
+  border: 0;
+
+  font-size: 14px;
+  font-weight: 600;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.title {
+  color: $primary-color;
+  font-weight: 600;
+  font-size: 36px;
+}
